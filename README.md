@@ -1,2 +1,2 @@
-# JahimSankoh
-About Me
+# Jahim Sankoh
+A Little More About Me
