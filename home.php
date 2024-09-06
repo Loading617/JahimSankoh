@@ -14,34 +14,36 @@
 <body>
 
   <header>
+<?php echo "Introduction"; ?>
 
-
-    <div class="navbar">
+  <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
-
-          <a href="home.php">Home</a>
-          <a href="funthings.php">Fun Things</a>
-          <a href="hobbies.php">Hobbies</a>
-          <a href="techstory.php">Tech Story</a>
-          <a href="contact.php">Contact</a>
+         <ul>
+          <li href="home.php">Home</li>
+          <li href="funthings.php">Fun Things</li>
+          <li href="hobbies.php">Hobbies</li>
+          <li href="techstory.php">Tech Story</li>
+          <li href="contact.php">Contact</li>
+          </ul>
             <span></span>
         
         </nav>
     
-
-    </div>
-        
-    <p>
-
+    <section>
     <div class="wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box">
-    <h1>Introduction</h1>
-    <p>Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
+    <?php echo "Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
     I am a Software Developer from Philadelphia, Pennsylvania and Here your gonna learn more About me!
-    So Come On Join Cause and It's Gonna Be a Journey!</p>
+    So Come On Join Cause and It's Gonna Be a Journey!"; ?>
     </div>
+    </div>
+    </section>
+
+    <footer>
+       <?php echo "Jahim Sankoh &copy; 2023"; ?>
+    </footer>
     </div>
   </body>
 </html>
