@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Jahim Sankoh's Official Site | Home</title>
+<title>Jahim Sankoh | Hobbies</title>
 <meta charset="UTF-8">
 <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome= Edge">
@@ -14,13 +14,25 @@
 <body>
 
   <header>
-<?php echo "Introduction"; ?>
 
-  <div class="navbar">
+  <?php echo "Hobbies"; ?>
+  <div class="wrapper">
+    <img src="hobbies.png" alt="IMG" width="405px" height="405px">
+    <div class="text-box">
+      <ul>
+        <li>Dancing</li>
+        <li>Acting</li>
+        <li>Tech</li>
+        <li>Shopping</li>
+      </ul>
+      </div>
+      </div>
+
+    <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
-         <ul>
-          <li href="home.php">Home</li>
+        <ul>
+          <li href="home.html">Home</li>
           <li href="funthings.php">Fun Things</li>
           <li href="hobbies.php">Hobbies</li>
           <li href="techstory.php">Tech Story</li>
@@ -30,20 +42,7 @@
         
         </nav>
     
-    <section>
-    <div class="wrapper">
-    <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
-    <div class="text-box">
-    <?php echo "Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
-    I am a Software Developer from Philadelphia, Pennsylvania and Here your gonna learn more About me!
-    So Come On Join Cause and It's Gonna Be a Journey!"; ?>
     </div>
-    </div>
-    </section>
 
-    <footer>
-       <?php echo "Jahim Sankoh &copy; 2023"; ?>
-    </footer>
-    </div>
-  </body>
+</body>
 </html>
