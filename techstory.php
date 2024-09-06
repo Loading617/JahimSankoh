@@ -14,31 +14,11 @@
 <body>
 
   <header>
-
-
-    <div class="navbar">
-        <div class="navbar-logo">Jahim Sankoh</div>
-        <nav>
-
-          <a href="home.php">Home</a>
-          <a href="funthings.php">Fun Things</a>
-          <a href="hobbies.php">Hobbies</a>
-          <a href="techstory.php">Tech Story</a>
-          <a href="contact.php">Contact</a>
-            <span></span>
-        
-        </nav>
-    
-
-    </div>
-        
-    <p>
-
-    <div class="wrapper">
+  <?php echo "Tech Story"; ?>
+  <div class="wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
-    <div class="text-box">
-    <h1>Tech Story</h1>
-    <p>First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
+    <div class="text-box"></div>
+     <?php echo "First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
       Next in Elementary School, I Learned How to Change Themes in Chrome.
       Third in Elementary School, I Learned How to Add Extensions in Chrome.
       Initially In Elementary School, I Learned How to get apps in Chrome Web Store.
@@ -51,10 +31,25 @@
       Also in Middle School, I Learned How to Download a Emulator from Chrome Web Store called GPEMU.
       Lastly Then in Middle School, I Found the first ROM Site to Download ROMS for GPEMU.
       Moving on to High School...
-      In High School, I Learned How to Download APKS and Open An APK Using ARC Welder.
+      In High School, I Learned How to Download APKS and Open An APK Using ARC Welder."; ?>
+      </div>
+      </div>
 
-    </p>
-  </div>
-</div>
+    <div class="navbar">
+        <div class="navbar-logo">Jahim Sankoh</div>
+        <nav>
+        <ul>
+          <li href="home.php">Home</li>
+          <li href="funthings.php">Fun Things</li>
+          <li href="hobbies.php">Hobbies</li>
+          <li href="techstory.php">Tech Story</li>
+          <li href="contact.php">Contact</li>
+          </ul>
+            <span></span>
+        
+        </nav>
+    
+    </div>
+
 </body>
 </html>
