@@ -15,7 +15,7 @@
 
   <header>
 
-  <?php echo "Hobbies"; ?>
+  <?php echo "<h1>Hobbies</h1>"; ?>
   <div class="wrapper">
     <img src="hobbies.png" alt="IMG" width="405px" height="405px">
     <div class="text-box">
@@ -36,7 +36,7 @@
           <li href="funthings.php">Fun Things</li>
           <li href="hobbies.php">Hobbies</li>
           <li href="techstory.php">Tech Story</li>
-          <li href="contact.php">Contact</li>
+          <li href="contactme.php">Contact Me</li>
           </ul>
             <span></span>
         
