@@ -36,7 +36,7 @@
           <a href="funthings.php">Fun Things</a>
           <a href="hobbies.php">Hobbies</a>
           <a href="techstory.php">Tech Story</a>
-          <a href="contact.php">Contact</a>
+          <a href="contactme.php">Contact Me</a>
             <span></span>
         
         </nav>
