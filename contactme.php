@@ -33,11 +33,11 @@
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
 
-          <a href="home.php">Home</a>
-          <a href="funthings.php">Fun Things</a>
-          <a href="hobbies.php">Hobbies</a>
-          <a href="techstory.php">Tech Story</a>
-          <a href="contactme.php">Contact Me</a>
+          <li href="home.php">Home</li>
+          <li href="funthings.php">Fun Things</li>
+          <li href="hobbies.php">Hobbies</li>
+          <li href="techstory.php">Tech Story</li>
+          <li href="contactme.php">Contact Me</li>
             <span></span>
         
         </nav>
