@@ -13,7 +13,6 @@
 </head>
 <body>
 
-  <header>
 <h1>Introduction</h1>
 
   <div class="navbar">
@@ -27,8 +26,7 @@
             <span></span>
         
         </nav>
-    
-    <section>
+
     <div class="wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box">
