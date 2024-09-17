@@ -35,7 +35,6 @@
     So Come On Join Cause It's Gonna Be a Journey!</p>
     </div>
     </div>
-    </section>
 
     <footer>
        <p>Jahim Sankoh &copy; 2023-2024</p>
