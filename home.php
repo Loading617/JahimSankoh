@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<header>Introduction</header>
+<h1>Introduction</h1>
 
   <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
