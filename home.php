@@ -33,7 +33,7 @@
     <div class="text-box">
     <p>Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
     I am a Software Developer from Philadelphia, Pennsylvania and Here your gonna learn more About me!
-    So Come On Join Cause and It's Gonna Be a Journey!</p>
+    So Come On Join Cause It's Gonna Be a Journey!</p>
     </div>
     </div>
     </section>
