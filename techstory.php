@@ -14,11 +14,11 @@
 <body>
 
   <header>
-  <?php echo "<h1>Tech Story</h1>"; ?>
+  <h1>Tech Story</h1>
   <div class="wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box"></div>
-     <?php echo "<p>First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
+     <p>First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
       Next in Elementary School, I Learned How to Change Themes in Chrome.
       Third in Elementary School, I Learned How to Add Extensions in Chrome.
       Initially In Elementary School, I Learned How to get apps in Chrome Web Store.
@@ -31,7 +31,7 @@
       Also in Middle School, I Learned How to Download a Emulator from Chrome Web Store called GPEMU.
       Lastly Then in Middle School, I Found the first ROM Site to Download ROMS for GPEMU.
       Moving on to High School...
-      In High School, I Learned How to Download APKS and Open An APK Using ARC Welder.</p>"; ?>
+      In High School, I Learned How to Download APKS and Open An APK Using ARC Welder.</p>
       </div>
       </div>
 
