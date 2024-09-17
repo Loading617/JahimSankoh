@@ -15,7 +15,7 @@
 
   <header>
 
-  <?php echo "<h1>Hobbies</h1>"; ?>
+  <h1>Hobbies</h1>
   <div class="wrapper">
     <img src="hobbies.png" alt="IMG" width="405px" height="405px">
     <div class="text-box">
