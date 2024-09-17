@@ -19,9 +19,9 @@
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box">
     <h2>Email Me:</h2>
-    <p><li href="mailto:jahimsankoh319@gmail.com" target="_blank">jahimsankoh319@gmail.com</p></li>
+    <p><a href="mailto:jahimsankoh319@gmail.com" target="_blank">jahimsankoh319@gmail.com</p></li>
     <h3>Phone:</h3>
-    <p><li href="tel:803-846-0324" target="_blank">Call Me for Questions, Contributing to any of my Projects on GitHub, You can Reach Me Here: (803) 846-0324</p></li>"; ?>
+    <p><a href="tel:803-846-0324" target="_blank">Call Me for Questions, Contributing to any of my Projects on GitHub, You can Reach Me Here: (803) 846-0324</p></li>"; ?>
     <h4>Socials:</h4>
       <ul>
       <li><a href="https://github.com/Loading617/" target="_blank"><img src="GitHub.png" alt="GitHub" width="32" height="32"></a></li>
@@ -33,11 +33,11 @@
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
 
-          <li href="home.php">Home</li>
-          <li href="funthings.php">Fun Things</li>
-          <li href="hobbies.php">Hobbies</li>
-          <li href="techstory.php">Tech Story</li>
-          <li href="contactme.php">Contact Me</li>
+          <a href="home.php">Home</a>
+          <a href="funthings.php">Fun Things</a>
+          <a href="hobbies.php">Hobbies</a>
+          <a href="techstory.php">Tech Story</a>
+          <a href="contactme.php">Contact Me</a>
             <span></span>
         
         </nav>
