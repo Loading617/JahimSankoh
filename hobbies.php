@@ -26,18 +26,15 @@
         <li>Shopping</li>
       </ul>
       </div>
-      </div>
 
     <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
-        <ul>
-          <li href="home.html">Home</li>
-          <li href="funthings.php">Fun Things</li>
-          <li href="hobbies.php">Hobbies</li>
-          <li href="techstory.php">Tech Story</li>
-          <li href="contactme.php">Contact Me</li>
-          </ul>
+          <a href="home.html">Home</a>
+          <a href="funthings.php">Fun Things</a>
+          <a href="hobbies.php">Hobbies</a>
+          <a href="techstory.php">Tech Story</a>
+          <a href="contactme.php">Contact Me</a>
             <span></span>
         
         </nav>
