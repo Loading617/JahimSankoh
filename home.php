@@ -23,7 +23,6 @@
           <a href="hobbies.php">Hobbies</>
           <a href="techstory.php">Tech Story</a>
           <a href="contactme.php">Contact Me</a>
-        
         </nav>
 
     <div class="wrapper">
