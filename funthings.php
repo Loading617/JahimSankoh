@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Jahim Sankoh's Official Site | Fun Things</title>
+<title>Jahim Sankoh - Fun Things</title>
 <meta charset="UTF-8">
 <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome= Edge">
@@ -15,7 +15,7 @@
 
   <header>
 
-  <h1>Fun Things</h1>
+<?php echo"<h1>Fun Things</h1>"; ?>
   <div class="wrapper">
     <img src="funthings.png" alt="funthings" width="405px" height="405px">
     <div class="text-box"></div>
@@ -36,8 +36,6 @@
           <a href="hobbies.php">Hobbies</a>
           <a href="techstory.php">Tech Story</a>
           <a href="contactme.php">Contact Me</a>
-            <span></span>
-        
         </nav>
     
     </div>
