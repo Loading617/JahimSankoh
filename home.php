@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Jahim Sankoh's Official Site - Home</title>
@@ -13,29 +13,32 @@
 </head>
 <body>
 
-<h1>Introduction</h1>
+  <header>
+<?php echo"<h1>Introduction</h1>"; ?>
 
   <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
           <a href="home.php">Home</a>
           <a href="funthings.php">Fun Things</a>
-          <a href="hobbies.php">Hobbies</>
+          <a href="hobbies.php">Hobbies</a>
           <a href="techstory.php">Tech Story</a>
           <a href="contactme.php">Contact Me</a>
         </nav>
-
+    
+    <section>
     <div class="wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box">
-    <p>Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
+    <?php echo"<p>Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
     I am a Software Developer from Philadelphia, Pennsylvania and Here your gonna learn more About me!
-    So Come On Join Cause It's Gonna Be a Journey!</p>
+    So Come On Join Cause and It's Gonna Be a Journey!</p>"; ?>
     </div>
     </div>
+    </section>
 
     <footer>
-       <p>Jahim Sankoh &copy; 2023-2024</p>
+       <?php echo"<p>Jahim Sankoh &copy; 2023-2024</p>"; ?>
     </footer>
     </div>
   </body>
