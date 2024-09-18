@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Jahim Sankoh | Tech Story</title>
+<title>Jahim Sankoh - Tech Story</title>
 <meta charset="UTF-8">
 <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome= Edge">
@@ -14,11 +14,11 @@
 <body>
 
   <header>
-  <h1>Tech Story</h1>
+  <?php echo"<h1>Tech Story</h1>"; ?>
   <div class="wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box"></div>
-     <p>First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
+<?php echo"<p>First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
       Next in Elementary School, I Learned How to Change Themes in Chrome.
       Third in Elementary School, I Learned How to Add Extensions in Chrome.
       Initially In Elementary School, I Learned How to get apps in Chrome Web Store.
@@ -31,19 +31,20 @@
       Also in Middle School, I Learned How to Download a Emulator from Chrome Web Store called GPEMU.
       Lastly Then in Middle School, I Found the first ROM Site to Download ROMS for GPEMU.
       Moving on to High School...
-      In High School, I Learned How to Download APKS and Open An APK Using ARC Welder.</p>
+      In High School, I Learned How to Download APKS and Open An APK Using ARC Welder.</p>"; ?>
       </div>
       </div>
 
     <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
-          <a href="home.php">Home</a>
-          <a href="funthings.php">Fun Things</a>
-          <a href="hobbies.php">Hobbies</a>
-          <a href="techstory.php">Tech Story</a>
-          <a href="contactme.php">Contact Me</a>
-            <span></span>
+        <ul>
+          <li href="home.php">Home</li>
+          <li href="funthings.php">Fun Things</li>
+          <li href="hobbies.php">Hobbies</li>
+          <li href="techstory.php">Tech Story</li>
+          <li href="contactme.php">Contact Me</li>
+          </ul>
         
         </nav>
     
