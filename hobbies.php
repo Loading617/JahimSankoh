@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Jahim Sankoh | Hobbies</title>
+<title>Jahim Sankoh - Hobbies</title>
 <meta charset="UTF-8">
 <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome= Edge">
@@ -15,7 +15,7 @@
 
   <header>
 
-  <h1>Hobbies</h1>
+  <?php echo"<h1>Hobbies</h1>"; ?>
   <div class="wrapper">
     <img src="hobbies.png" alt="IMG" width="405px" height="405px">
     <div class="text-box">
@@ -26,17 +26,18 @@
         <li>Shopping</li>
       </ul>
       </div>
+      </div>
 
     <div class="navbar">
         <div class="navbar-logo">Jahim Sankoh</div>
         <nav>
-          <a href="home.html">Home</a>
-          <a href="funthings.php">Fun Things</a>
-          <a href="hobbies.php">Hobbies</a>
-          <a href="techstory.php">Tech Story</a>
-          <a href="contactme.php">Contact Me</a>
-            <span></span>
-        
+        <ul>
+          <li href="home.html">Home</li>
+          <li href="funthings.php">Fun Things</li>
+          <li href="hobbies.php">Hobbies</li>
+          <li href="techstory.php">Tech Story</li>
+          <li href="contactme.php">Contact Me</li>
+          </ul>
         </nav>
     
     </div>
