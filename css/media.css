@@ -1,8 +1,0 @@
-@media (min-width: 768px) {
-    .content-wrapper {
-        flex-direction: row;
-        justify-content: center;
-        align-items: flex-start;
-        gap: 20px;
-    }
-}
