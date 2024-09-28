@@ -1,9 +1,5 @@
 .navbar-logo {
-   font-family: "Helvetica";
    font-size: 26px;
-   margin-bottom: 200px;
    font-weight: bold;
-   font-style: normal;
-   text-align: center;
-
+   margin-bottom: 10px;
 }
