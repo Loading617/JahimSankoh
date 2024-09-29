@@ -26,7 +26,7 @@
             <div class="content-wrapper">
                 <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405" height="405">
                 <div class="text-box">
-                    <?php echo"<h1>Introduction</h1>"; ?>
+                    <h1>Introduction</h1>
                     <?php echo"<p>Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
                     I am a Software Developer from Philadelphia, Pennsylvania and Here your gonna learn more About me!
                     So Come On Join Cause and It's Gonna Be a Journey!</p>"; ?>
