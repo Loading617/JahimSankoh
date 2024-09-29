@@ -10,10 +10,20 @@
 <script type="text/javascript" src="fontsize.js"></script>
 </head>
 <body>
-
+<div class="container">
   <header>
+    <div class="navbar-logo">Jahim Sankoh</div>
+    <nav>
+      <a href="index.php">Home</a>
+      <a href="aboutme.php">About Me</a>
+      <a href="hobbies.php">Hobbies</a>
+      <a href="techstory.php">Tech Story</a>
+      <a href="contactme.php">Contact Me</a>
+    </nav>
+  </header>
 
-<?php echo"<h1>Fun Things</h1>"; ?>
+  <main>
+<h1>Fun Things</h1>
   <div class="wrapper">
     <img src="funthings.png" alt="funthings" width="405px" height="405px">
     <div class="text-box"></div>
@@ -25,17 +35,7 @@
       </ul>
       </div>
       </div>
-
-    <div class="navbar">
-        <div class="navbar-logo">Jahim Sankoh</div>
-        <nav>
-          <li href="home.php">Home</li>
-          <li href="funthings.php">Fun Things</li>
-          <li href="hobbies.php">Hobbies</li>
-          <li href="techstory.php">Tech Story</li>
-          <li href="contactme.php">Contact Me</li>
-        </nav>
-    
+      </main>
     </div>
 
 </body>
