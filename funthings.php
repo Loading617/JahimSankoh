@@ -20,13 +20,14 @@
       <a href="techstory.php">Tech Story</a>
       <a href="contactme.php">Contact Me</a>
     </nav>
+    </div>
   </header>
 
   <main>
-<h1>Fun Things</h1>
-  <div class="wrapper">
-    <img src="funthings.png" alt="funthings" width="405px" height="405px">
-    <div class="text-box"></div>
+<?php echo"<h1>Fun Things</h1>"; ?>
+  <div class="content-wrapper">
+    <img src="funthings.png" alt="Fun Things" width="405px" height="405px">
+    <div class="text-box">
       <ul>
         <li>Watching a Movie</li>
         <li>Listening to Music</li>
@@ -36,7 +37,6 @@
       </div>
       </div>
       </main>
-    </div>
 
 </body>
 </html>
