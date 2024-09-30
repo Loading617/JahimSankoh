@@ -28,12 +28,7 @@
   <div class="content-wrapper">
     <img src="funthings.png" alt="Fun Things" width="405px" height="405px">
     <div class="text-box">
-      <ul>
-        <li>Watching a Movie</li>
-        <li>Listening to Music</li>
-        <li>Play Dodgeball</li>
-        <li>Go on Roadtrips</li>
-      </ul>
+      <?php echo
       </div>
       </div>
       </main>
