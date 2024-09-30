@@ -24,7 +24,7 @@
         
         <main>
             <div class="content-wrapper">
-                <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405" height="405">
+                <img src="IMG_20220531_122425_177.jpg" alt="Picture of Me" width="405" height="405">
                 <div class="text-box">
                     <?php echo"<h1>Introduction</h1>"; ?>
                     <?php echo"<p>Hi!&#128075; ya'll it's me Jahim Sankoh and Welcome to my Site!
