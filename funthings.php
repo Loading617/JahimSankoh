@@ -30,13 +30,13 @@
     <div class="text-box">
       <?php echo"<h1>Fun Things</h1>"; ?>
       <?php
-      echo "<ul>";
+      echo "<ul>"; ?>
       echo "<li>Watching a Movie</li>";
       echo "<li>Listening to Music</li>";
       echo "<li>Play Dodgeball</li>";
       echo "<li>Go on Roadtrips</li>";
       echo "</ul>";
-      ?>
+
       </div>
       </div>
       </main>
