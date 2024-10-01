@@ -24,11 +24,19 @@
   </header>
 
   <main>
-<?php echo"<h1>Fun Things</h1>"; ?>
+    
   <div class="content-wrapper">
     <img src="funthings.png" alt="Fun Things" width="405px" height="405px">
     <div class="text-box">
-      <?php echo
+      <?php echo"<h1>Fun Things</h1>"; ?>
+      <?php
+      echo "<ul>";
+      echo "<li>Watching a Movie</li>";
+      echo "<li>Listening to Music</li>";
+      echo "<li>Play Dodgeball</li>";
+      echo "<li>Go on Roadtrips</li>";
+      echo "</ul>";
+      ?>
       </div>
       </div>
       </main>
