@@ -13,7 +13,7 @@
 
   <header>
   <?php echo"<h1>Tech Story</h1>"; ?>
-  <div class="container">
+  <div class="content-wrapper">
     <img src="IMG_20220531_122425_177.jpg" alt="IMG" width="405px" height="405px">
     <div class="text-box"></div>
 <?php echo"<p>First in Elementary School, I Learned on Chromebook how to Find a Image and Set as Background.
