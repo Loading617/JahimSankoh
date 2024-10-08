@@ -1,2 +1,2 @@
 # Jahim Sankoh
-A Little More About Me
+More to Know About Me
