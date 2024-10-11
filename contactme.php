@@ -38,12 +38,8 @@
     <div class="content-wrapper">
     <?php echo"<h4>Socials:</h4>"; ?>
     <a href="https://github.com/Loading617/" target="_blank"><img src="GitHub.png" alt="GitHub" width="32" height="32"></a>
-    <div class="image-container">
-    <div class="content-wrapper">
     <a href="https://www.facebook.com/jahim.sankoh.5" target="_blank"><img src="facebook.png" alt="Facebook" width="32" height="32"></a>
-    <div class="image-container">
     <a href="https://www.instagram.com/jusbeing.jahim/" target="_blank"><img src="instagram.png" alt="Instagram" width="32" height="32"></a>
-    <div class="image-container">
     <a href="https://www.twitter.com/jahim4x" target="_blank"><img src="x.png" alt="X formely Twitter" width="32" height="32"></a>
                 </div>
                 </div>
