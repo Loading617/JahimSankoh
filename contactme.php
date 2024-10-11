@@ -32,13 +32,13 @@
                 <div class="text-box">
                     <h1>Contact Information</h1>
                     <div class="contact-info">
-                        <h2>Email Me:</h2>
+                        ?php echo "<h2>Email Me:</h2>"; ?
                         <p><a href="mailto:jahimsankoh319@gmail.com" target="_blank">jahimsankoh319@gmail.com</a></p>
-                        <h3>Phone:</h3>
+                        ?php echo "<h3>Phone:</h3>"; ?
                         <p>Call Me for Questions, Contributing to any of my Projects on GitHub, You can Reach Me Here:</p>
                         <a href="tel:803-846-0324" target="_blank">(803) 846-0324</a>
                         <div class="socials">
-                            <h4>Socials:</h4>
+                            ?php echo "<h4>Socials:</h4>"; ?
                             <a href="https://github.com/Loading617/" target="_blank"><i class="fab fa-github"></i></a>
                             <a href="https://www.facebook.com/jahim.sankoh.5" target="_blank"><i class="fab fa-facebook"></i></a>
                             <a href="https://www.instagram.com/jusbeing.jahim/" target="_blank"><i class="fab fa-instagram"></i></a>
