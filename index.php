@@ -7,7 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/x-icon" href="J.ico">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <script type="text/javascript" src="fontsize.js"></script>
 </head>
 <body>
     <div class="container">
