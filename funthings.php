@@ -40,6 +40,8 @@
       </div>
       </div>
       </main>
-
+<footer>
+            <p>&copy; 2023-2024 Jahim Sankoh. All rights reserved.</p>
+        </footer>
 </body>
 </html>
