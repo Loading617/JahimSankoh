@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<title>Jahim Sankoh - Fun Things</title>
+<title>Jahim Sankoh's Official Site - Fun Things</title>
 <meta charset="UTF-8">
 <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome= Edge">
