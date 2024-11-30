@@ -7,9 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome=Edge">
     <link rel="icon" type="image/x-icon" href="J.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <script type="text/javascript" src="fontsize.js"></script>
-    <script type="text/javascript" src="paragraph.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
     <div class="container">
