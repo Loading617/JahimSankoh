@@ -6,8 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge Webkit, Chrome= Edge">
     <title>Jahim Sankoh - Tech Story</title>
     <link rel="icon" type="image/x-icon" href="J.ico">
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <script type="text/javascript" src="fontsize.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <header>
