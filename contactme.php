@@ -37,7 +37,7 @@
                         <p>Call Me for Questions, Contributing to any of my Projects on GitHub, You can Reach Me Here:</p>
                         <a href="tel:803-846-0324" target="_blank">(803) 846-0324</a>
                         <div class="socials">
-                            <?php echo"<h4>Socials:</h4>"; ?>
+                            <?php echo"<h4>Find me on:</h4>"; ?>
                             <a href="https://github.com/Loading617/" target="_blank"><i class="fab fa-github"></i></a>
                             <a href="https://www.facebook.com/jahim.sankoh.5" target="_blank"><i class="fab fa-facebook"></i></a>
                             <a href="https://www.instagram.com/jusbeing.jahim/" target="_blank"><i class="fab fa-instagram"></i></a>
